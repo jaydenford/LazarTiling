@@ -1,8 +1,7 @@
 {
   "items": [
-    { "image": "/images/uploads/hero-kitchen.jpg", "caption": "Kitchen splashback - linear porcelain" },
-    { "image": "/images/uploads/work-splashback-subway.jpg", "caption": "Kitchen splashback - subway and feature tile" },
-    { "image": "/images/uploads/work-bathroom-tub.jpg", "caption": "Bathroom - freestanding tub surround" },
-    { "image": "/images/uploads/work-commercial-pandan.jpg", "caption": "Commercial - Pandan Asian Cuisine fit-out" }
-  ]
-}
+    { "image": "/images/uploads/IMG_9162.jpeg", "caption": "Kitchen splashback - linear porcelain" },
+    { "image": "/images/uploads/IMG_9161.jpeg", "caption": "Kitchen splashback - subway and feature tile" },
+    { "image": "/images/uploads/IMG_9160.jpeg", "caption": "Bathroom - freestanding tub surround" },
+    { "image": "/images/uploads/IMG_9163.jpeg", "caption": "Commercial - Pandan Asian Cuisine fit-out" }
+    
